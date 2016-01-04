@@ -9,3 +9,4 @@ Original work by Taeyoon Choi and collaborators.
 
 Earlier version of the work is an extension of '[Version Controlled Poetry](https://github.com/tchoi8/poetry)" 
 
+The work will be exhibited at [Whisper or Shout: Artists in the Social Sphere](http://bricartsmedia.org/events/contemporary-art/whisper-or-shout-artists-in-the-social-sphere) at BRIC House in Brooklyn, New York. March 17-May 1, 2016.  
