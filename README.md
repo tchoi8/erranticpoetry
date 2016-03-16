@@ -5,6 +5,14 @@ Original work by Taeyoon Choi and collaborators.
 
 'Errantic poetry' is a growing collection of poems written, interpreted and translated in English, Korean, American Sign Language,  Computer software, Digital and physical output and many more. The poems range from personal work, notes of others work, prompts and propositions and they are accompanied by the technical notes.  
 
+Example poems
+
+- Snow poems
+- Random poems
+- Text Outputs
+
+These poems are printed with a pen plotter using Plottr.js by Michael Simpson 
+
 'Errantic poetry' is an attempt in giving form to a new kind of language, one that is only complete during its transformation. The poems 
 
 Earlier version of the work is an extension of '[Version Controlled Poetry](https://github.com/tchoi8/poetry)" 
