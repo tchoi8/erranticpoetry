@@ -11,7 +11,7 @@ Example poems
 - Random poems
 - Text Outputs
 
-These poems are printed with a pen plotter using Plottr.js by Michael Simpson 
+These poems are printed with a pen plotter using [Plottr.js](https://github.com/mgs/plottr.js) by Michael Simpson 
 
 'Errantic poetry' is an attempt in giving form to a new kind of language, one that is only complete during its transformation. The poems 
 
